@@ -6,5 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("Hello World");
         System.out.println("System");
+        System.out.println("2023-03-24");
+        System.out.println("2023-03-24");
+        System.out.println("2023-03-24");
     }
 }
