@@ -3,6 +3,16 @@ package com.company;
 public class Person {
     private  int age;
 
+    public int getSex() {
+        return sex;
+    }
+
+    public void setSex(int sex) {
+        this.sex = sex;
+    }
+
+    private int sex;
+
     public String getName() {
         return name;
     }
