@@ -7,6 +7,7 @@ public class Person {
         return sex;
     }
 
+
     public void setSex(int sex) {
         this.sex = sex;
     }
