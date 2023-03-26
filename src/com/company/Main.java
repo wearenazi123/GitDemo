@@ -32,6 +32,7 @@ public class Main {
 
         }
 
+
         for (float x:f){
             System.out.println(x);
         }
